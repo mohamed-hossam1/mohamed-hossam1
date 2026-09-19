@@ -48,12 +48,13 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-#### ⚙️ Backend, Systems & Infrastructure
+#### ⚙️ Backend, Systems & Databases
 <p>
   <img src="https://img.shields.io/badge/NestJS%2011-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Go_Daemons-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go Agent" />
   <img src="https://img.shields.io/badge/Redis%207-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -101,11 +102,10 @@
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
 | ⚡ **[Traqon](https://github.com/mohamed-hossam1/traqon-app)** | `Go 1.22` `NestJS 11` `Next.js 16` `Redis 7` `Drizzle` `Groq LLM` | **Enterprise Autonomous AI Infrastructure Monitoring & Incident Remediation Platform**. Pairs a native Go daemon agent with LLM-driven root cause diagnosis, 21 compiled safe tools, human approval gating, sub-ms Redis authorization versioning, and real-time operations dashboard. | [💻 Repository](https://github.com/mohamed-hossam1/traqon-app) |
+| 💬 **[Stack-Overflow](https://github.com/mohamed-hossam1/Stack-Overflow)** | `Next.js 16` `React 19` `TypeScript` `MongoDB` `Auth.js v5` `Tailwind` | **Full-Stack Developer Q&A Platform (DevFlow)**. Complete developer community platform with React Server Components, optimistic voting state reconciliation, multi-document MongoDB transactions via Mongoose sessions, non-blocking view tracking with Next.js `after()`, and MDX CodeMirror editor. | [🌐 Live Demo](https://stack-overflow-dev-theta.vercel.app/) • [💻 Code](https://github.com/mohamed-hossam1/Stack-Overflow) |
 | ⚡ **[nextjs-skills](https://github.com/mohamed-hossam1/nextjs-skills)** | `JavaScript` `AI Agents` `Next.js Cache` `Autonomous AI` | Advanced caching architecture for Next.js 16+ App Router and autonomous AI skills framework for agentic workflows. | ⭐ **9 Stars** • [💻 Code](https://github.com/mohamed-hossam1/nextjs-skills) |
 | 🛍️ **[elar-app](https://github.com/mohamed-hossam1/elar-app)** | `Next.js 16` `TypeScript` `Supabase` `Tailwind CSS` | Production-grade e-commerce application with dynamic cart management, smooth interactions, and optimized caching architecture. | [🌐 Live Demo](https://elar.app) • [💻 Code](https://github.com/mohamed-hossam1/elar-app) |
 | 🧠 **[rag-front](https://github.com/mohamed-hossam1/rag-front)** & **[RAG](https://github.com/mohamed-hossam1/RAG)** | `TypeScript` `Python` `Vector Search` `Next.js` | Intelligent Retrieval-Augmented Generation application with responsive frontend UI and notebook-based pipeline. | [🌐 Live Demo](https://rag-front-zeta.vercel.app) • [💻 Code](https://github.com/mohamed-hossam1/rag-front) |
-| 🛡️ **[IAM](https://github.com/mohamed-hossam1/IAM)** | `TypeScript` `NestJS` `Auth Systems` `Security` | Robust Identity & Access Management system with fine-grained role-based access control and token authorization. | [💻 Code](https://github.com/mohamed-hossam1/IAM) |
-| ✨ **[elegance](https://github.com/mohamed-hossam1/elegance)** | `TypeScript` `Next.js / React` `Tailwind CSS` | Polished web interface crafted with precision design, fast page load speeds, and fluid interactivity. | [🌐 Live Demo](https://elegance-eight-gamma.vercel.app) • [💻 Code](https://github.com/mohamed-hossam1/elegance) |
 
 ---
 
