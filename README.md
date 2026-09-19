@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=220&section=header&text=Mohamed%20Hossam&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=Full-Stack%20Engineer%20%7C%20Next.js%20%26%20AI%20Systems%20Builder&subfontSize=20&subfontColor=38bdf8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24&height=220&section=header&text=Mohamed%20Hossam&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=Full-Stack%20Engineer%20%7C%20Next.js%20%26%20AI%20Systems%20Builder&subfontSize=20&subfontColor=58a6ff" width="100%" />
 
   <a href="https://github.com/mohamed-hossam1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohamed+Hossam+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Next.js+16+%26+TypeScript;AI+%26+Autonomous+Agentic+Systems+Builder;Passionate+Problem+Solver+%26+Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohamed+Hossam+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Next.js+16+%26+TypeScript;AI+%26+Autonomous+Agentic+Systems+Builder;Passionate+Problem+Solver+%26+Competitive+Programmer" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -10,6 +10,9 @@
   </p>
 
   <p align="center">
+    <a href="https://www.linkedin.com/in/mohamed-7ossam/">
+      <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Hossam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="mailto:mohamedhossamv8@gmail.com">
       <img src="https://img.shields.io/badge/Email-mohamedhossamv8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -106,12 +109,12 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-hossam1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-hossam1&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mohamed-hossam1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-hossam1&theme=github_dark&hide_border=true" alt="Mohamed's GitHub Streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-hossam1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohamed-hossam1&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 ---
@@ -119,11 +122,12 @@
 ### 📬 Get in Touch!
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-7ossam/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed_Hossam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohamedhossamv8@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedhossamv8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/mohamed-hossam1"><img src="https://img.shields.io/badge/GitHub-mohamed--hossam1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://elar.app"><img src="https://img.shields.io/badge/Live_App-elar.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,1&height=100&section=footer" width="100%" />
 </div>
